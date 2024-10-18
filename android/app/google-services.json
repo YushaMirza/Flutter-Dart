@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080802817850",
+    "project_id": "online-dunya",
+    "storage_bucket": "online-dunya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080802817850:android:be12e5ce69899bab720203",
+        "android_client_info": {
+          "package_name": "com.example.online_dunya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx32Ig_oaspi10IR-CY4-wHAP5Zy23rJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
